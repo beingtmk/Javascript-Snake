@@ -6,3 +6,5 @@ Rules of the Game:
 Controls:
   Use arrow keys to direct the snake.
   Use space to speed/pause the snake.
+
+This game is made using HTML/CSS and javascript.
