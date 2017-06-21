@@ -1,2 +1,8 @@
 # Javascript-Snake
-snake game made with Javascript
+
+Rules of the Game:
+  Dont try to eat the wall or eat yourself
+  
+Controls:
+  Use arrow keys to direct the snake.
+  Use space to speed/pause the snake.
